@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: flink-connector-kafka-base
+Implementation-Version: 1.9.2
+Archiver-Version: Plexus Archiver
+Built-By: root
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: flink-connector-kafka-base
+Implementation-Vendor-Id: org.apache.flink
+Created-By: Apache Maven 3.2.5
+Build-Jdk: 1.8.0_232
+Specification-Version: 1.9.2
+Implementation-Vendor: The Apache Software Foundation
+

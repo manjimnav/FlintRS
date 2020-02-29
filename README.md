@@ -1,0 +1,1 @@
+Para ejecutar el programa debe ejecutar el script execute.sh. Este script enviará resultados a bigdatamaster2019.dataspartan.com:19093 con el token que se le pase por parámetro. Asegurese de tener la carpeta bin de flink añadida a las variables de entorno para la correcta ejecución.

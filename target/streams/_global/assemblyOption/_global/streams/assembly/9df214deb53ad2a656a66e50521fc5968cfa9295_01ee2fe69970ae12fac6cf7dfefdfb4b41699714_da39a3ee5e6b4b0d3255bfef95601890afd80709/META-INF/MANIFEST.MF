@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spray-json
+Implementation-Version: 1.3.5
+Specification-Vendor: io.spray
+Specification-Title: spray-json
+Implementation-Vendor-Id: io.spray
+Specification-Version: 1.3.5
+Implementation-URL: https://github.com/spray/spray-json
+Implementation-Vendor: io.spray
+

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: pmml4s
+Implementation-Version: 0.9.3
+Specification-Vendor: org.pmml4s
+Specification-Title: pmml4s
+Implementation-Vendor-Id: org.pmml4s
+Specification-Version: 0.9.3
+Implementation-URL: https://github.com/autodeployai/pmml4s
+Implementation-Vendor: org.pmml4s
+Main-Class: org.pmml4s.Validator
+

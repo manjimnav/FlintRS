@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1573342184475
+Build-Jdk: 1.8.0_162
+Built-By: tatu
+Bundle-Description: Add-on module to support JSR-310 (Java 8 Date & Ti
+ me API) data types.
+Bundle-DocURL: https://github.com/FasterXML/jackson-modules-java8/jack
+ son-datatype-jsr310
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Jackson datatype: JSR310
+Bundle-SymbolicName: com.fasterxml.jackson.datatype.jackson-datatype-j
+ sr310
+Bundle-Vendor: FasterXML
+Bundle-Version: 2.10.1
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.fasterxml.jackson.datatype.jsr310;version="2.10.1"
+ ;uses:="com.fasterxml.jackson.core,com.fasterxml.jackson.databind,com
+ .fasterxml.jackson.databind.introspect,com.fasterxml.jackson.databind
+ .module",com.fasterxml.jackson.datatype.jsr310.deser;version="2.10.1"
+ ;uses:="com.fasterxml.jackson.core,com.fasterxml.jackson.databind,com
+ .fasterxml.jackson.databind.deser,com.fasterxml.jackson.databind.json
+ type",com.fasterxml.jackson.datatype.jsr310.deser.key;version="2.10.1
+ ";uses:="com.fasterxml.jackson.databind",com.fasterxml.jackson.dataty
+ pe.jsr310.ser;version="2.10.1";uses:="com.fasterxml.jackson.annotatio
+ n,com.fasterxml.jackson.core,com.fasterxml.jackson.databind,com.faste
+ rxml.jackson.databind.jsonFormatVisitors,com.fasterxml.jackson.databi
+ nd.jsontype",com.fasterxml.jackson.datatype.jsr310.ser.key;version="2
+ .10.1";uses:="com.fasterxml.jackson.core,com.fasterxml.jackson.databi
+ nd"
+Implementation-Build-Date: 2019-11-09 23:29:13+0000
+Implementation-Title: Jackson datatype: JSR310
+Implementation-Vendor: FasterXML
+Implementation-Vendor-Id: com.fasterxml.jackson.datatype
+Implementation-Version: 2.10.1
+Import-Package: com.fasterxml.jackson.annotation;version="[2.10,3)",co
+ m.fasterxml.jackson.core;version="[2.10,3)",com.fasterxml.jackson.cor
+ e.type;version="[2.10,3)",com.fasterxml.jackson.core.util;version="[2
+ .10,3)",com.fasterxml.jackson.databind;version="[2.10,3)",com.fasterx
+ ml.jackson.databind.cfg;version="[2.10,3)",com.fasterxml.jackson.data
+ bind.deser;version="[2.10,3)",com.fasterxml.jackson.databind.deser.st
+ d;version="[2.10,3)",com.fasterxml.jackson.databind.introspect;versio
+ n="[2.10,3)",com.fasterxml.jackson.databind.jsonFormatVisitors;versio
+ n="[2.10,3)",com.fasterxml.jackson.databind.jsontype;version="[2.10,3
+ )",com.fasterxml.jackson.databind.module;version="[2.10,3)",com.faste
+ rxml.jackson.databind.node;version="[2.10,3)",com.fasterxml.jackson.d
+ atabind.ser;version="[2.10,3)",com.fasterxml.jackson.databind.ser.std
+ ;version="[2.10,3)",com.fasterxml.jackson.databind.type;version="[2.1
+ 0,3)",com.fasterxml.jackson.databind.util;version="[2.10,3)",com.fast
+ erxml.jackson.datatype.jsr310;version="[2.10,3)",com.fasterxml.jackso
+ n.datatype.jsr310.deser;version="[2.10,3)",com.fasterxml.jackson.data
+ type.jsr310.deser.key;version="[2.10,3)",com.fasterxml.jackson.dataty
+ pe.jsr310.ser;version="[2.10,3)",com.fasterxml.jackson.datatype.jsr31
+ 0.ser.key;version="[2.10,3)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Specification-Title: Jackson datatype: JSR310
+Specification-Vendor: FasterXML
+Specification-Version: 2.10.1
+Tool: Bnd-4.2.0.201903051501
+X-Compile-Source-JDK: 1.8
+X-Compile-Target-JDK: 1.8
+

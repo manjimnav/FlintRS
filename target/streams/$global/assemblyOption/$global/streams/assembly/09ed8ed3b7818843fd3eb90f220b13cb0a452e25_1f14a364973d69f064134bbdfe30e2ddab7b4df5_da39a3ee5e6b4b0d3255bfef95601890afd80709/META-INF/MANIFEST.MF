@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: force-shading
+Implementation-Version: 1.9.2
+Archiver-Version: Plexus Archiver
+Built-By: root
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: force-shading
+Implementation-Vendor-Id: org.apache.flink
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Apache Maven 3.2.5
+Build-Jdk: 1.8.0_232
+Specification-Version: 1.9
+Implementation-URL: https://www.apache.org/force-shading/
+
